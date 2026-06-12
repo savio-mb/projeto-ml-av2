@@ -19,7 +19,7 @@ A execução deste projeto exige um ambiente limpo com suporte a processamento d
 
 1. **Clone o repositório:**
 ```bash
-git clone [https://github.com/savio-mb/projeto-ml-av2.git](https://github.com/savio-mb/projeto-ml-av2.git)
+git clone https://github.com/savio-mb/projeto-ml-av2.git
 cd projeto-ml-av2
 ```
 
