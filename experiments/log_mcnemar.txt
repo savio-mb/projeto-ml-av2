@@ -1,0 +1,9 @@
+RELATÓRIO DE AVALIAÇÃO ESTATÍSTICA (MCNEMAR)
+Comparativo: ResNet50 vs MobileNetV2
+---------------------------------------------
+Casos em que SÓ a ResNet50 acertou   : 16
+Casos em que SÓ a MobileNetV2 acertou: 5
+Estatística Qui-Quadrado             : 4.7619
+P-Value                              : 2.9096e-02
+---------------------------------------------
+Conclusão: P-value < 0.05. A superioridade da ResNet50 é ESTATISTICAMENTE SIGNIFICATIVA.

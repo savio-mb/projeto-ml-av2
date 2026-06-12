@@ -1,0 +1,4 @@
+Arquitetura,Acurácia Global (%),Recall (Mancha Bact.) (%)
+ResNet50,96.88644688644689,85.0
+MobileNetV2,94.13919413919413,60.0
+Xception,90.65934065934066,50.0

@@ -1,0 +1,23 @@
+# Ambientes Virtuais
+venv/
+env/
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos Pesados e Dados Brutos (RQ-ER-03)
+data/raw/*
+!data/raw/.gitkeep
+src/models_saved/
+models/
+*.keras
+*.h5
+
+# Arquivos de IDE
+.vscode/
+.idea/
+.ipynb_checkpoints/

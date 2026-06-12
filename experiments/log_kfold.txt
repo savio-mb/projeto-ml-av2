@@ -1,0 +1,11 @@
+RELATÓRIO DE VALIDAÇÃO CRUZADA (5-FOLD)
+Modelo: ResNet50 Otimizada
+---------------------------------------------
+Fold 1: 91.39%
+Fold 2: 85.69%
+Fold 3: 88.26%
+Fold 4: 88.81%
+Fold 5: 87.16%
+---------------------------------------------
+Média Final    : 88.26%
+Desvio Padrão  : ± 1.89%
